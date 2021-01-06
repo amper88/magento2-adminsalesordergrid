@@ -8,7 +8,7 @@
             </argument>
         </arguments>
     </type>
-    <type name="Accolade\DevTest\Model\ResourceModel\Order\Grid\Collection">
+    <type name="Offset101\OrderGrid\Model\ResourceModel\Order\Grid\Collection">
         <arguments>
             <argument name="mainTable" xsi:type="string">sales_order_grid</argument>
             <argument name="resourceModel" xsi:type="string">Offset101\OrderGrid\Model\ResourceModel\Order</argument>
